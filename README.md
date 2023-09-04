@@ -1,1 +1,1 @@
-# Walmart sales prediction using neural prophet and greykite
+# Walmart sales forecasting using neural prophet and greykite
